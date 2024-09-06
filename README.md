@@ -4,7 +4,7 @@ Esse repositório contém o código fonte para *A Linguagem de Programação Swi
 (algumas vezes é abreviada como TSPL, do inglês "The Swift Programming Language"), a qual é publicada em inglês originalmente no endereço elêtronico [docs.swift.org][published]
 e que é construída usando [Swift-DocC][docc].
 
-# Nota sobre essa tradução à língua portuguesa
+# Nota sobre essa tradução na língua portuguesa
 
 Optou-se pela escolha de uma tradução semântica e interpretativa, pois é usual perder o sentido das ideias e fluídez ao realizar-se traduções. O objetivo não é oferecer apenas a tradução do original, mas garantir que o leitor adquira conhecimento da linguagem de programação, da mesma maneira que o seu original escrito em inglês. Isto é, o original em inglês é percebido como uma "trilha e não um trilho".
 
