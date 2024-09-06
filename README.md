@@ -13,7 +13,7 @@ Além disso, sempre que possível, tentar-se-á empregar a língua escrita portu
 
 Para realizar modificações pequenas, 
 como correções de tipos de dados e a modificação de alguns poucos parágrafos,
-crie uma forca desse repósitorio e solicite uma requisição de [https://docs.github.com/pt/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request][pull].
+crie uma forca desse repósitorio e solicite uma requisição de [pull][https://docs.github.com/pt/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request].
 
 A formal contribution process for this document is still in development.
 In the meantime,
