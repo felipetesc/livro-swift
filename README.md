@@ -49,12 +49,12 @@ abra o arquivo usando o teu navegador preferido.
 
 > Nota:
 >
-> If you installed DocC by downloading a toolchain from Swift.org,
-> `docc` is located in `usr/bin/`,
-> relative to the installation path of the toolchain.
-> Make sure your shell's `PATH` environment variable
-> includes that directory.
+> Se instalou DocC ao baixares cadeia de ferramentas de Swift.org,
+> `docc` está localizado no ficheiro `usr/bin/`,
+> relativo ao caminho da instalação da cadeia de ferramentas.
+> Certifique-se que a variável de ambiente foi adicionada ao seu shell
+> ao incluires o directório.
 >
-> If you installed DocC by downloading Xcode,
-> run `xcrun docc preview TSPL.docc` instead.
+> Por outro lado, se instalou o DocC baixando-o pelo Xcode,
+> execute o comando `xcrun docc preview TSPL.docc`.
 
