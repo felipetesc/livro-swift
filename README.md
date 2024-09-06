@@ -1,34 +1,31 @@
 # A Linguagem de Programação Swift
 
 Esse repositório contém o código fonte para *A Linguagem de Programação Swift*
-(algumas vezes é abreviada como TSPL, do inglês "The Swift Programming Language"),
-a qual é publicada em inglês originalmente no endereço elêtronico [docs.swift.org][published]
+(algumas vezes é abreviada como TSPL, do inglês "The Swift Programming Language"), a qual é publicada em inglês originalmente no endereço elêtronico [docs.swift.org][published]
 e que é construída usando [Swift-DocC][docc].
 
 # Nota sobre essa tradução à língua portuguesa
-Optou-se pela escolha de uma tradução semântica e interpretativa, pois é usual perder o sentido das ideias e fluídez ao realizar-se traduções. O objetivo não é oferecer uma tradução, mas grantir que o leitor adquira conhecimento da linguagem de programação, da mesma maneira que o seu original escrito em inglês. Isto é, o original em inglês é percebido como uma "trilha e não um trilho".
+
+Optou-se pela escolha de uma tradução semântica e interpretativa, pois é usual perder o sentido das ideias e fluídez ao realizar-se traduções. O objetivo não é oferecer apenas a tradução do original, mas garantir que o leitor adquira conhecimento da linguagem de programação, da mesma maneira que o seu original escrito em inglês. Isto é, o original em inglês é percebido como uma "trilha e não um trilho".
+
 Além disso, sempre que possível, tentar-se-á empregar a língua escrita portuguesa objetivando os leitores de Portugal, do Brasil, de Ângola, Moçambique, dentre outros. Sinta-se convidado e bem vindo a solicitação de mudanças, perguntas e també as críticas se espressas com respeito e cordialidade.  
 
 ## Contribuições
 
-Para realizar modificações pequenas, 
-como correções de tipos de dados e a modificação de alguns poucos parágrafos,
-crie uma forca desse repósitorio e solicite uma requisição de [pull][https://docs.github.com/pt/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request].
+Para realizar pequenas modificações, tais como, correções de tipos de dados e a modificação de alguns poucos parágrafos, crie uma forca desse repósitorio e solicite uma requisição de [pull](https://docs.github.com/pt/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request).
 
-A formal contribution process for this document is still in development.
-In the meantime,
-start a pitch thread in the [Swift forums][forum] for larger changes
-to discuss your approach and identify possible issues
-before you invest a lot of time in writing.
+O processo formal de contribuição para esse documento ainda está sendo desenvolvido.
+Enquanto isso, podes inicar um novo tópico na sessão de discussões, solicitar mudaças mais significativas discutindo sua abordagem e identificar possíveis problemas antes de utilizar muito do seu tempo na escrita da documentação. 
 
-Content in this book follows [Apple Style Guide][asg]
-and [this book’s style guide][tspl-style].
+Os conteúdos desse livro sem o [Guia de Estilo Apple][asq]
+e do [guia do estilo desse livro][tspl-style]
 
-File bugs about the content using the [issues page][bugs] on Github.
+Arquivos de bugs sobre o conteúdo que usam a [página de problemas][issue], estão no repositório Github.  
 
-Discussions and contributions follow the [Swift Code of Conduct][conduct].
+Discussões e contribuições seguem o [Código de Conduta Swift][conduct].
 
-For more information, see [Contributing to The Swift Programming Language][contributing].
+
+Para obteres maiores informações, veja [Contribuindo com a Linguagem de Programação Swift][contributing].
 
 [asg]: https://help.apple.com/applestyleguide/
 [bugs]: https://github.com/apple/swift-book/issues
@@ -39,15 +36,18 @@ For more information, see [Contributing to The Swift Programming Language][contr
 [published]: https://docs.swift.org/swift-book/documentation/the-swift-programming-language/
 [docc]: https://github.com/apple/swift-docc
 
-## Building
+## Construindo a documentação
 
-Run `docc preview TSPL.docc`
-in this repository's root directory.
+Clone esse repositório,
+abra o seu emulador de terminal
+navegue até a pasta raiz livro-swift, e
+execute `docc preview TSPL.docc`
 
-After running DocC, open the link that `docc` outputs
-to display a local preview in your browser.
+Após algum tempo de espera ao executar o comando acima,
+abra  pelo seu explorador de arquivos o link que `ddoc` gerará, na raiz desse novo diretório/ficheiro,
+abra o arquivo usando o teu navegador preferido.
 
-> Note:
+> Nota:
 >
 > If you installed DocC by downloading a toolchain from Swift.org,
 > `docc` is located in `usr/bin/`,
