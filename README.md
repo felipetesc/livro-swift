@@ -1,15 +1,19 @@
-# The Swift Programming Language
+# A Linguagem de Programação Swift
 
-This repository contains the source for *The Swift Programming Language*
-(sometimes abbreviated as TSPL),
-which is published on [docs.swift.org][published]
-and built using [Swift-DocC][docc].
+Esse repositório contém o código fonte para *A Linguagem de Programação Swift*
+(algumas vezes é abreviada como TSPL, do inglês "The Swift Programming Language"),
+a qual é publicada em inglês originalmente no endereço elêtronico [docs.swift.org][published]
+e que é construída usando [Swift-DocC][docc].
 
-## Contributing
+# Nota sobre essa tradução à língua portuguesa
+Optou-se pela escolha de uma tradução semântica e interpretativa, pois é usual perder o sentido das ideias e fluídez ao realizar-se traduções. O objetivo não é oferecer uma tradução, mas grantir que o leitor adquira conhecimento da linguagem de programação, da mesma maneira que o seu original escrito em inglês. Isto é, o original em inglês é percebido como uma "trilha e não um trilho".
+Além disso, sempre que possível, tentar-se-á empregar a língua escrita portuguesa objetivando os leitores de Portugal, do Brasil, de Ângola, Moçambique, dentre outros. Sinta-se convidado e bem vindo a solicitação de mudanças, perguntas e també as críticas se espressas com respeito e cordialidade.  
 
-For small changes,
-like typo fixes and changes to a few paragraphs,
-fork this repository and make a pull request.
+## Contribuições
+
+Para realizar modificações pequenas, 
+como correções de tipos de dados e a modificação de alguns poucos parágrafos,
+crie uma forca desse repósitorio e solicite uma requisição de [https://docs.github.com/pt/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request][pull].
 
 A formal contribution process for this document is still in development.
 In the meantime,
